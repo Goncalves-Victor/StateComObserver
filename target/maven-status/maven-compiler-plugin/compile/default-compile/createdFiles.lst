@@ -1,0 +1,6 @@
+org\example\Pedido.class
+org\example\Enviado.class
+org\example\Entregue.class
+org\example\Cliente.class
+org\example\EstadoPedido.class
+org\example\Pendente.class
